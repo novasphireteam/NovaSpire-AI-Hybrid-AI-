@@ -81,34 +81,20 @@ NovaSpire AI
 
 ---
 
-## Quick Start
+## Platform Access
 
-### Requirements
-- Python 3.10+
-- Ollama (local LLM runtime)
-- 8GB+ RAM recommended
+NovaSpire AI is currently available through controlled deployment channels.
 
-### Installation
+### Interface Modes
 
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
+| Interface | Availability | Purpose |
+|-----------|--------------|---------|
+| Terminal Experience | Internal | Real-time hybrid interaction |
+| Web Chat | Internal | Browser-based conversational interface |
+| Code Workspace | Internal | AI-assisted engineering workflows |
+| API Layer | Internal | Enterprise integration and automation |
 
-# 2. Start Ollama (in separate terminal)
-ollama run llama3
-
-# 3. Start NovaSpire
-python chat_terminal.py
-```
-
-### Available Interfaces
-
-| Interface | Command | Port | Purpose |
-|-----------|---------|------|---------|
-| Terminal Chat | `python chat_terminal.py` | — | CLI with hybrid pipeline |
-| Web Chat | `python ui/webui.py` | 7860 | Browser-based chat |
-| Code IDE | `python ui/webuicode.py` | 7861 | AI pair-programming |
-| API Server | `python server.py` | 8000 | REST/WebSocket API |
+For partnership, pilot access, or enterprise deployment inquiries, contact: `nexus@pcnorge.no`
 
 ---
 
