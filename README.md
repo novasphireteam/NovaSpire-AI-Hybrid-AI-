@@ -29,6 +29,14 @@ Most AI solutions are optimized for generation. NovaSpire is optimized for **dec
 
 NovaSpire combines adaptive intelligence with control architecture to support environments where quality, accountability, and consistency are mission-critical.
 
+## Hybrid AI Confirmation
+
+NovaSpire AI is a real hybrid AI system.
+
+It does not rely on a single-model-only architecture. The platform combines multiple cognitive and control layers, persistent context systems, and governance mechanisms into one coordinated intelligence framework.
+
+This hybrid design is intentional and foundational to NovaSpire's performance, reliability, and enterprise readiness.
+
 ---
 
 ## Core Capabilities
